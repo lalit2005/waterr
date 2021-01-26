@@ -1,5 +1,5 @@
 # Waterr
-**Do you forget to drink water??**
+**Do you often forget to drink water??**
 
 **Then this project is for you**
 
